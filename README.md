@@ -1,13 +1,12 @@
-# Employee Onboarding Guide
-## Setting up company email and slack
+# My First Documentation Project
 
+Welcome to my sample documentation project
 
-## purpose
-This guide helps new employees setup companies email and slack
-## Steps:
-1. open a browser
-2. Go to the email login page
-3. Enter provided credentials
+## Files included 
+- Guide
+- FAQ
 
-## Outcome
-Employee can connect to the team.
+## Skills Used
+- Markdown
+- Documentation writing
+- GitHub
