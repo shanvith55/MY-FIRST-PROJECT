@@ -10,3 +10,11 @@ Welcome to my sample documentation project
 - Markdown
 - Documentation writing
 - GitHub
+
+## skills Practiced
+- Markdown 
+- Structured Documentation 
+- Github usage
+
+## Purpose
+To build a technical writing portfolio for job applications. 
